@@ -82,5 +82,5 @@ This project focuses on predicting the presence of heart disease using the **Cle
 
 ## 🧾 Author
 
-Developed by [Your Name]  
+Developed by Bensun
 For educational and demonstration purposes.
