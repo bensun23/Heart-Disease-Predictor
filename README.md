@@ -1,4 +1,4 @@
-# 💓 Heart Disease Prediction using Machine Learning
+# 🫀 Heart Disease Prediction using Machine Learning
 
 This project focuses on predicting the presence of heart disease using the **Cleveland Heart Disease Dataset** from the UCI Machine Learning Repository. It leverages a **Random Forest Classifier** to identify whether a patient is at risk based on several medical attributes.
 
